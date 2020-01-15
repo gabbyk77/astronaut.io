@@ -1,0 +1,36 @@
+table {
+ background-color: black;
+ width: 700px;
+ height: 50px;
+ margin-left: auto;
+ margin-right: auto;
+}
+.table-left {
+ background-color: black;
+ width: 300px;
+ margin-left: auto;
+}
+tr {
+   background-color: white;
+   text-align: left;
+}
+td {
+  width: 800px;
+  font-family:'Roboto', sans-serif;
+}
+.clay {
+  align: left;
+  width: 900px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.tables {
+  width: 600px;
+  font-size: bold;
+}
+.table {
+  width: 100px;
+}
+p {
+font-family: ;'Roboto', sans-serif;
+}
